@@ -61,5 +61,5 @@ app.MapControllers();
 //     context.Database.Migrate();
 // }
 
-
+app.UseStaticFiles();
 app.Run();
