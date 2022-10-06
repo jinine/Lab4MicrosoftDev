@@ -8,11 +8,11 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
 
-namespace HealthAPI.Migrations
+namespace HealthAPI.Data.Migrations
 {
     [DbContext(typeof(HealthContext))]
-    [Migration("20221006214543_newmigration")]
-    partial class newmigration
+    [Migration("20221006220030_M1")]
+    partial class M1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
