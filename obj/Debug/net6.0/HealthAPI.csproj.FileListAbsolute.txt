@@ -268,3 +268,4 @@
 /Users/macbookpro/Desktop/HealthAPI/obj/Debug/net6.0/HealthAPI.pdb
 /Users/macbookpro/Desktop/HealthAPI/obj/Debug/net6.0/HealthAPI.genruntimeconfig.cache
 /Users/macbookpro/Desktop/HealthAPI/obj/Debug/net6.0/ref/HealthAPI.dll
+/Users/macbookpro/Desktop/HealthAPI/bin/Debug/net6.0/HealthAPI.staticwebassets.runtime.json
