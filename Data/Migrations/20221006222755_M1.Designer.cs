@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace HealthAPI.Data.Migrations
 {
     [DbContext(typeof(HealthContext))]
-    [Migration("20221006221749_M1")]
+    [Migration("20221006222755_M1")]
     partial class M1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
